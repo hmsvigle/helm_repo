@@ -3,7 +3,17 @@ entries:
   app-01:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2024-07-25T14:53:51.377145467Z"
+    created: "2024-07-25T16:28:57.927096329Z"
+    description: App-01
+    digest: 7aefe347b155857ed320a285a7bec59c8d1109de3bda1eb2da10f38b5eaf3a41
+    name: app-01
+    type: application
+    urls:
+    - https://hmsvigle.github.io/helm_repo/app-01-0.2.0.tgz
+    version: 0.2.0
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2024-07-25T16:28:57.926847997Z"
     description: App-01
     digest: 9143100f570e11dd994fe4eecb65f50762d239c60165396852b5026f7d1bfb0a
     name: app-01
@@ -14,7 +24,7 @@ entries:
   app-02:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2024-07-25T14:53:51.377710913Z"
+    created: "2024-07-25T16:28:57.927509001Z"
     description: App-02
     digest: f6eddf58e6e89e5b8aecf94c68507a7e318e1d88334264f522b140afb2d68567
     name: app-02
@@ -24,7 +34,7 @@ entries:
     version: 0.2.0
   - apiVersion: v2
     appVersion: 1.0.2
-    created: "2024-07-25T14:53:51.377440826Z"
+    created: "2024-07-25T16:28:57.927289761Z"
     description: A Helm chart for Kubernetes
     digest: 55eaa0d29f848386082fd7e3122b12f4a50ba980780569690dc09dc257d9eb34
     name: app-02
@@ -32,4 +42,4 @@ entries:
     urls:
     - https://hmsvigle.github.io/helm_repo/app-02-0.1.0.tgz
     version: 0.1.0
-generated: "2024-07-25T14:53:51.376601451Z"
+generated: "2024-07-25T16:28:57.926439281Z"
